@@ -1,0 +1,20 @@
+
+
+.contact-body {
+    background-image: linear-gradient(to top right, #009FFF, #ec2F4B);
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+}
+
+.text-page {
+    color:palevioletred;
+    text-align: center;
+}
+
+#choose{
+    font-size: 20px;
+    text-align: center;
+}
+a:hover{
+    color:burlywood;
+}
